@@ -57,42 +57,38 @@
 <tr>
 <td width="50%" valign="top">
 
-### 🎯 **Current Research & Development**
+### 🎯 **Current Focus & Learning Path**
+
 ```yaml
-🧠 Deep Learning & Neural Networks:
-  - TensorFlow/PyTorch Implementation
-  - Computer Vision & NLP
-  - Model Optimization & Deployment
+💻 Frontend Engineering:
+  - React & Next.js (Production-Level Experience)
+  - Tailwind CSS, TypeScript, Clean UI/UX Design
+  - Component Reusability & State Management
 
-🔬 Neural Intelligence Research:
-  - Brainwave Signal Analysis
-  - Cognitive Computing Models
-  - Neural Network Architecture Design
+🧠 Machine Learning (Intermediate):
+  - Regression, Classification, Model Evaluation
+  - Scikit-Learn, Pandas, NumPy, Matplotlib
+  - Practical Projects with Real-world Datasets
 
-⚛️ Quantum Machine Learning:
-  - PennyLane Framework
-  - Quantum Computing Applications
-  - Hybrid Classical-Quantum Models
-
-🌐 Full-Stack Engineering:
-  - React/Next.js Architecture
-  - TypeScript Development
-  - Modern Frontend Patterns
+🔬 Research Interests (Early Stage):
+  - Neural Intelligence & Brainwave Analysis
+  - Quantum ML with PennyLane (Exploratory Phase)
+  - Research Writing & Paper Structuring
 ```
 
 </td>
 <td width="50%" valign="top">
 
-### 📈 **Professional Expertise Matrix**
+### 📈 **Proficiency Matrix**
 
-| Domain | Proficiency | Focus Area |
-|--------|-------------|------------|
-| **🤖 Machine Learning** | ██████████ | Core Specialization |
-| **📊 Data Science** | ████████░░ | Analytics & Insights |
-| **💻 Frontend Development** | ████████░░ | React/Next.js |
-| **🗄️ Database Systems** | ███████░░░ | Oracle SQL |
-| **🔬 Research** | ████████░░ | Neural Intelligence |
-| **☁️ Cloud Platforms** | ██████░░░░ | Deployment & Scaling |
+| Domain                      | Level      | Status               |
+| --------------------------- | ---------- | -------------------- |
+| **💻 Frontend Development** | ██████████ | ✅ Professional       |
+| **🤖 Machine Learning**     | ███████░░░ | 📈 Growing           |
+| **📊 Data Science**         | ██████▇░░░ | 📈 Practical Level   |
+| **🔬 Neural Intelligence**  | ████░░░░░░ | 🧪 Research Phase    |
+| **⚛️ Quantum ML**           | ███░░░░░░░ | 🧪 Learning Phase    |
+| **📔 Oracle SQL/DBMS**      | ██████░░░░ | 🛠️ Usage Experience |
 
 </td>
 </tr>
@@ -103,7 +99,7 @@
 ## 🛠️ **Technology Stack & Proficiency Matrix**
 
 <details>
-<summary><b>🧠 Artificial Intelligence & Machine Learning</b></summary>
+<summary><b>🧠Machine Learning & Deep Learning</b></summary>
 <br>
 
 **Core Frameworks & Libraries**
@@ -359,12 +355,7 @@
 <img src="https://img.shields.io/badge/🎓-Mentorship%20Available-orange?style=for-the-badge&logoColor=white" />
 </div>
 
-**Areas of Interest:**
-- 🧠 Machine Learning & AI Research Projects
-- 🌐 Full-Stack Development Collaborations
-- 🔬 Open Source Contributions
-- 📊 Data Science Consulting
-- 🎓 Educational Content Creation
+
 
 </div>
 
@@ -409,6 +400,30 @@
 </div>
 
 ---
+<div align="left">
+
+
+```python
+class AshabulYamin:
+    def __init__(self):
+        self.username = "infernoYam1n"
+        self.name = "Ashabul Yamin Tuhin"
+        self.position = "Learning ML & DS | Enthusiast & Full-Stack Developer"
+        self.location = "Chattogram, Bangladesh"
+        self.languages = ["Python", "JavaScript", "React.js", "Next.js", SQL"]
+        
+    def current_focus(self):
+        return [
+            "Building ML models with real-world impact",
+            "Mastering Deep Learning architectures",
+            "Creating beautiful React applications",
+            "Contributing to open-source projects"
+        ]
+    
+    def life_philosophy(self):
+        return "Continuous learning + Consistent building = Exponential growth"
+```
+</div>
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=footer&animation=fadeIn&fontColor=ffffff&desc=Thank%20you%20for%20visiting%20my%20profile!&descSize=16&descAlign=50&descAlignY=75" />
