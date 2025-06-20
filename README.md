@@ -144,18 +144,16 @@
 </td>
 </tr>
 </table>
-
-<img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=infernoYam1n&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
-
-</div>
-
----
-
-## 🏆 **GitHub Achievements**
-
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=infernoYam1n&theme=tokyonight&no-frame=true&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=infernoYam1n&layout=compact&theme=radical&hide_border=true&langs_count=8" />
 </div>
+
+
+</div>
+
+
+
+
 
 ---
 
@@ -237,34 +235,6 @@
 
 ---
 
-## 💡 **Fun Facts**
-
-<div align="center">
-
-```python
-class AshabulYamin:
-    def __init__(self):
-        self.username = "infernoYam1n"
-        self.name = "Ashabul Yamin Tuhin"
-        self.position = "ML Engineer & Full-Stack Developer"
-        self.location = "Chattogram, Bangladesh"
-        self.languages = ["Python", "JavaScript", "SQL", "Bengali", "English"]
-        
-    def current_focus(self):
-        return [
-            "Building ML models with real-world impact",
-            "Mastering Deep Learning architectures",
-            "Creating beautiful React applications",
-            "Contributing to open-source projects"
-        ]
-    
-    def life_philosophy(self):
-        return "Continuous learning + Consistent building = Exponential growth"
-```
-
-</div>
-
----
 
 <div align="center">
 
