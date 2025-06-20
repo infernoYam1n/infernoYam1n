@@ -159,7 +159,7 @@
 <p>
 <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+
 </p>
 
 **Backend & Runtime**
@@ -211,14 +211,11 @@
 </td>
 <td width="50%">
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=infernoYam1n&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=infernoYam1n&layout=compact&theme=radical&hide_border=true&langs_count=8" />
 
 </td>
 </tr>
 </table>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=infernoYam1n&layout=compact&theme=radical&hide_border=true&langs_count=8" />
-</div>
 
 
 </div>
